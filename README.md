@@ -1,4 +1,7 @@
 ## Hi there 👋
+ 💬 Ask me about all things **data & analytics** especially semantic modeling of data marts
+> “Data are just summaries of thousands of stories—tell a few of those stories to help make the data meaningful.”
+~ Dan Heath
 
 <!--
 **kmarch89509/kmarch89509** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
